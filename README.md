@@ -1,4 +1,4 @@
-🛡️ #RGB Guardian
+# 🛡️ RGB Guardian
 
 RGB Guardian é um jogo de defesa rítmica e reflexos rápidos desenvolvido inteiramente em HTML5, CSS3 e JavaScript puro. O objetivo é proteger a base contra blocos coloridos que descem em velocidade progressiva, utilizando disparos de cores correspondentes.
 🎮 ##O Jogo
@@ -12,7 +12,7 @@ Principais Características:
 
     Multiplataforma: Totalmente jogável tanto no desktop (teclado) quanto em dispositivos móveis (touch).
 
-🕹️ ##Como Jogar
+## 🕹️ Como Jogar
 
 O jogo utiliza uma mecânica de correspondência de cores. Um tiro só destrói um bloco se ambos forem da mesma cor.
 Controles (PC):
@@ -23,11 +23,11 @@ Controles (PC):
 
     Tecla D: Dispara raio Azul.
 
-###Controles (Mobile):
+### Controles (Mobile):
 
     Toque nos botões coloridos na parte inferior da tela para disparar.
 
-🛠️ ##Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Este projeto demonstra a aplicação de conceitos de desenvolvimento front-end e lógica de jogos:
 
